@@ -1,6 +1,6 @@
 ## Code
 
-This repo contains an SVM based approach to relation extraction
+This repo contains implementation of an SVM based approach to relation extraction in Financial Domain.
 
 ## Dataset
 
